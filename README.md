@@ -1,4 +1,4 @@
-# Telegram_Chatbot
+# Telegram_ChatBot_OpenAI
 
 ## How to run the code :
 
@@ -13,7 +13,7 @@ conda activate OpAIenv
 ```
 3. Install the dependencies : 
 ```ini
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 4. Create a `.env` file in the root directory and add your OpenAI API key and Telegram TOKEN :
 
@@ -30,10 +30,10 @@ python src/bot.py
 7. Enjoy chatting with your bot!
 
 ## Telegram Sertup :
-1. Search for "BotFather" in telegram (be sure to choose the verified one)
+1. Search for "BotFather" in telegram 
 2. Start Conversation : 
-    /newbot :
-        choose your bot rname 
-        choose your bot username 
+    - /newbot :
+        - choose your bot name 
+        - choose your bot username 
 3. Copy Telegram Token
 4. Click on the URL to start the conversation with your bot
