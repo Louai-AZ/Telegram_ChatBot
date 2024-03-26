@@ -1,10 +1,10 @@
-# Telegram_ChatBot_OpenAI
+# Telegram_ChatBot
 
 ## How to run the code :
 
 1. Clone this repository :
 ```ini
-git clone https://github.com/Louai-AZ/ChatBot_OpenAI.git
+git clone https://github.com/Louai-AZ/Telegram_ChatBot.git
 ```
 2. Create a virtual environment and activate it :
 ```ini
